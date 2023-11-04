@@ -1,0 +1,113 @@
+.menu-container :hover {
+    color: red;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu-container {
+    display: flex;
+    background-color: #d3c7e6;
+    background-size: 100px;
+    padding: 10px;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+}
+
+.img {
+    display: flex;
+    justify-content: right;
+}
+
+.spasi {
+    color: #d3c7e6;
+}
+
+.spasi2 {
+    color: #e8e6f1;
+}
+
+.search {
+    display: flex;
+    font-style: italic;
+    border: 1px;
+    border-color: rgb(77, 51, 21);
+    width: 200px;
+    height: 25px;
+    border-radius: 0px;
+    border-style: solid;
+}
+
+.konten {
+    padding: 29px;
+    background-color: #e8e6f1;
+    justify-content: left;
+}
+
+.bg {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+.foto {
+    align-content: center;
+}
+
+.cek {
+    color: rgb(167, 121, 65);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.sosmed {
+    display: flex;
+}
+
+.kiri {
+    text-align: center;
+}
+
+.nama {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.npm {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.kanan {
+    display: flex;
+    text-align: right;
+}
+
+.kanan {
+    display: flex;
+}
+
+.me {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.isi {
+    font-size: 19px;
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.more {
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    border-color: #d3c7e6;
+    width: 160px;
+    height: 25px;
+    border-style: solid;
+    border-radius: 50px;
+}
+
